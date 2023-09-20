@@ -2,7 +2,7 @@
  
 **Project live at:** [Link to Website](https://codesnippetshot.netlify.app/)
 
-<img src="https://github.com/ShreyasSN/CodeSnippetShot/blob/main/Demo/CodeSnippetShot.png" alt="Cover Page">
+[![Cover Page](https://i.postimg.cc/G2zH64Vq/Code-Snippet-Shot.png)]
 
 ## Features
 
