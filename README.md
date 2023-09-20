@@ -33,5 +33,5 @@
   <li><strong>Vite:</strong> Frontend tooling.</li>
 </ul>
 
-## Demo 
 [![Sample-picture.png](https://i.postimg.cc/k426kQ3w/Sample-picture.png)](https://postimg.cc/VrcktbNb)
+[Link to Website](https://codesnippetshot.netlify.app/)
