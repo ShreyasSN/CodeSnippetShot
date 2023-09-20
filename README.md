@@ -2,7 +2,7 @@
  
 **Project live at:** [Link to Website](https://codesnippetshot.netlify.app/)
 
-[![Code-Snippet-Shot.png](https://i.postimg.cc/G2zH64Vq/Code-Snippet-Shot.png)](https://i.postimg.cc/G2zH64Vq/Code-Snippet-Shot.png)
+[![Code-Snippet-Shot.png](https://i.postimg.cc/G2zH64Vq/Code-Snippet-Shot.png)]([https://i.postimg.cc/G2zH64Vq/Code-Snippet-Shot.png])
 
 ## Features
 
@@ -34,4 +34,4 @@
 </ul>
 
 [![Sample-picture.png](https://i.postimg.cc/k426kQ3w/Sample-picture.png)]([https://i.postimg.cc/k426kQ3w/Sample-picture.png])
-[Link to Website](https://codesnippetshot.netlify.app/){:target="_blank"}
+[Link to Website](https://codesnippetshot.netlify.app/){target="_blank"}
