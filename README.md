@@ -34,4 +34,4 @@
 </ul>
 
 [![Sample-picture.png](https://i.postimg.cc/k426kQ3w/Sample-picture.png)]([https://i.postimg.cc/k426kQ3w/Sample-picture.png])
-[Link to Website](https://codesnippetshot.netlify.app/){target="_blank"}
+[Link to Website](https://codesnippetshot.netlify.app/)
