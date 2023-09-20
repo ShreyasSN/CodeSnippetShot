@@ -2,7 +2,7 @@
  
 **Project live at:** [Link to Website](https://codesnippetshot.netlify.app/)
 
-[![Code-Snippet-Shot.png](https://i.postimg.cc/G2zH64Vq/Code-Snippet-Shot.png)](https://postimg.cc/0MMkwy8w)
+[![Code-Snippet-Shot.png](https://i.postimg.cc/G2zH64Vq/Code-Snippet-Shot.png)](https://i.postimg.cc/G2zH64Vq/Code-Snippet-Shot.png)
 
 ## Features
 
