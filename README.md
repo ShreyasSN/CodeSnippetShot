@@ -34,5 +34,6 @@
  <li><strong>React-three fiber & drei:</strong>For dynamic 3D rendering of a starlight live background.</li>
 </ul>
 
+
 [![Sample-picture.png](https://i.postimg.cc/k426kQ3w/Sample-picture.png)]([https://i.postimg.cc/k426kQ3w/Sample-picture.png])
-[Link to Website](https://codesnippetshot.netlify.app/)
+Discover more on the website: [Link to Website](https://codesnippetshot.netlify.app/)
