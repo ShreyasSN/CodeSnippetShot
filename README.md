@@ -31,7 +31,7 @@
   <li><strong>React Hotkeys Hook:</strong> A React hook for using keyboard shortcuts in components in a declarative way.</li>
   <li><strong>Resizable:</strong> A resizable component for React.</li>
   <li><strong>Vite:</strong> Frontend tooling.</li>
- <li><strong>React-three fiber & drei:</strong>For dynamic 3D rendering of a starlight live background.</li>
+ <li><strong>React-three fiber & drei:</strong> For dynamic 3D rendering of a starlight live background.</li>
 </ul>
 
 
