@@ -4,7 +4,7 @@
 
 [![Code-Snippet-Shot.png](https://i.postimg.cc/G2zH64Vq/Code-Snippet-Shot.png)]([https://i.postimg.cc/G2zH64Vq/Code-Snippet-Shot.png])
 
-Easily create vibrant and eye-catching code snippet screenshots for sharing on your favorite social media platforms with this specialized website. Tailor your code snippets with colorful backgrounds and themes, ensuring they stand out in your posts. The platform offers a user-friendly experience, allowing you to customize your code and generate visually appealing images ready for sharing. Share your coding expertise with style and flair through this intuitive code snippet screenshot creator.
+    Easily create vibrant and eye-catching code snippet screenshots for sharing on your favorite social media platforms with this specialized website. Tailor your code snippets with colorful backgrounds and themes, ensuring they stand out in your posts. The platform offers a user-friendly experience, allowing you to customize your code and generate visually appealing images ready for sharing. Share your coding expertise with style and flair through this intuitive code snippet screenshot creator.
 
 ## Features
 
